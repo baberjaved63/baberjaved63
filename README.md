@@ -29,8 +29,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 <br/>
 
-<a href="https://github.com/baberjaved63"><img height="200em" width="55%" src="https://github-readme-stats.vercel.app/api?username=baberjaved63&theme=buefy&show_icons=true" /></a>
-<a href="https://github.com/baberjaved63"><img height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baberjaved63&theme=buefy&layout=compact" /></a>
+<a href="https://github.com/baberjaved63"><img height="200em" width="54%" src="https://github-readme-stats.vercel.app/api?username=baberjaved63&theme=buefy&show_icons=true" /></a>
+<a href="https://github.com/baberjaved63"><img height="200em" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baberjaved63&theme=buefy&layout=compact" /></a>
 
 
 
